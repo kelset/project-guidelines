@@ -141,6 +141,8 @@ Because of most of the reasons above, we use [Feature-branch-workflow](https://w
 
 Having a good guideline for creating commits and sticking to it makes working with Git and collaborating with others a lot easier. Here are some rules of thumb ([source](https://chris.beams.io/posts/git-commit/#seven-rules)):
 
+This [tool](https://github.com/commitizen/cz-cli) may be helpful.
+
  * Separate the subject from the body with a newline between the two
 
     _Why:_
